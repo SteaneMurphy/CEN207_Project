@@ -1,13 +1,12 @@
 import React from "react";
+import './ProductTile.css';
 
 interface ProductTileProps {
-  title?: string;
 }
 
-const ProductTile: React.FC<ProductTileProps> = ({ title }) => {
+const ProductTile: React.FC<ProductTileProps> = () => {
   return (
-    <div className="tempHeader">
-      {title && <h2>{title}</h2>}
+    <div className="productTileMainContainer">
     </div>
   );
 };

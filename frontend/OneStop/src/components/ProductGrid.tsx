@@ -1,13 +1,12 @@
 import React from "react";
+import './ProductGrid.css';
 
 interface ProductGridProps {
-  title?: string;
 }
 
-const ProductGrid: React.FC<ProductGridProps> = ({ title }) => {
+const ProductGrid: React.FC<ProductGridProps> = () => {
   return (
-    <div className="tempHeader">
-      {title && <h2>{title}</h2>}
+    <div className="productGridMainContainer">
     </div>
   );
 };

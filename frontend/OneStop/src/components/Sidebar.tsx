@@ -1,13 +1,12 @@
 import React from "react";
+import './Sidebar.css';
 
 interface SidebarProps {
-  title?: string;
 }
 
-const Sidebar: React.FC<SidebarProps> = ({ title }) => {
+const Sidebar: React.FC<SidebarProps> = () => {
   return (
-    <div className="tempHeader">
-      {title && <h2>{title}</h2>}
+    <div className="sidebarMainContainer">
     </div>
   );
 };

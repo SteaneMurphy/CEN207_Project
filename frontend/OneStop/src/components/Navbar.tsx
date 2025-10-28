@@ -1,13 +1,12 @@
 import React from "react";
+import './Navbar.css';
 
 interface NavbarProps {
-  title?: string;
 }
 
-const Navbar: React.FC<NavbarProps> = ({ title }) => {
+const Navbar: React.FC<NavbarProps> = () => {
   return (
-    <div className="tempHeader">
-      {title && <h2>{title}</h2>}
+    <div className="navbarMainContainer">
     </div>
   );
 };

@@ -1,13 +1,12 @@
 import React from "react";
+import './Header.css';
 
 interface HeaderProps {
-  title?: string;
 }
 
-const Header: React.FC<HeaderProps> = ({ title }) => {
+const Header: React.FC<HeaderProps> = () => {
   return (
-    <div className="tempHeader">
-      {title && <h2>{title}</h2>}
+    <div className="headerMainContainer">
     </div>
   );
 };

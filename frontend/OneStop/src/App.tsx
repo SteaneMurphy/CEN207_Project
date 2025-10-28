@@ -11,12 +11,12 @@ function App() {
 
   return (
     <>
-      <Sidebar title={"sidebar component"} />
-      <ProductGrid title={"product grid component"} />
-      <Header title={"header component"} />
-      <Navbar title={"navbar component"} />
-      <Footer title={"footer component"} />
-      <ProductTile title={"product tile component"} />
+      <Sidebar />
+      <ProductGrid />
+      <Header />
+      <Navbar />
+      <Footer />
+      <ProductTile />
     </>
   )
 }

@@ -1,13 +1,13 @@
 import React from "react";
+import './Footer.css';
 
 interface FooterProps {
-  title?: string;
+  
 }
 
-const Footer: React.FC<FooterProps> = ({ title }) => {
+const Footer: React.FC<FooterProps> = () => {
   return (
-    <div className="tempHeader">
-      {title && <h2>{title}</h2>}
+    <div className="footerMainContainer">
     </div>
   );
 };
