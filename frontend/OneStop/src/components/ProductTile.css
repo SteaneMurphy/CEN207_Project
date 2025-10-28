@@ -1,0 +1,9 @@
+.productTileMainContainer
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(138, 127, 127);
+    margin-left: 10px;
+}

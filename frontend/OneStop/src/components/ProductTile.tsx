@@ -7,6 +7,7 @@ interface ProductTileProps {
 const ProductTile: React.FC<ProductTileProps> = () => {
   return (
     <div className="productTileMainContainer">
+      <p>product</p>
     </div>
   );
 };
