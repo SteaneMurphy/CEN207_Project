@@ -6,3 +6,11 @@
     height: 5vh;
     background-color: rgb(252, 102, 102);
 }
+
+.logo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}

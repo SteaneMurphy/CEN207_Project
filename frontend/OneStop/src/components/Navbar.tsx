@@ -7,6 +7,9 @@ interface NavbarProps {
 const Navbar: React.FC<NavbarProps> = () => {
   return (
     <div className="navbarMainContainer">
+      <div className="logo">
+        <span>OneStop</span>
+      </div>
     </div>
   );
 };
