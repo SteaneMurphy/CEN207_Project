@@ -3,9 +3,12 @@ import numpy as np
 import json
 import os
 
-# Path for product list
-DATA_PATH = os.path.join(os.path.dirname(__file__), "../data/products.json")
-with open(DATA_PATH, "r") as f:
+# File paths
+PRODUCTS_PATH = os.path.join(os.path.dirname(__file__), "../data/products.json")
+EMBEDDING_PATH = os.path.join(os.path.dirname(__file__), "../data/product_vectors.npy")
+METADATA_PATH = os.path.join(os.path.dirname(__file__), "../data/product_metadata.json")
+
+with open(PRODUCTS_PATH, "r") as f:
     products = json.load(f)
 
 # Embedding model
@@ -25,8 +28,8 @@ texts = [
 embeddings = model.encode(texts, convert_to_numpy=True)
 
 # Save vectorised product list to disk
-np.save("product_vectors.npy", embeddings)
-with open("product_metadata.json", "w") as f:
+np.save(EMBEDDING_PATH, embeddings)
+with open(METADATA_PATH, "w") as f:
     json.dump(products, f)
 
 print("Embeddings generated and saved")

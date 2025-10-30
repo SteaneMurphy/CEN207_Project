@@ -1,8 +1,14 @@
 To run backend
 
 - source venv/bin/activate
+- pip install
 - uvicorn assistant_api:app --host 0.0.0.0 --port 8000
 
 To run frontend
 
+- npm install
 - npm run dev
+
+To generate embeddings of product list. Product list must be in "../data/products.json". Embeddings only works with this structure of product.
+
+- python embeddings_setup.py
