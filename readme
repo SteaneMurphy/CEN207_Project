@@ -1,14 +1,23 @@
-To run backend
+INITAL SETUP
+
+Run each of these scripts, in order, once. This will download the model
+locally, vectorise the product list locally and generate images locally
+for the product list.
 
 - source venv/bin/activate
+- python download_model.py
+- python embeddings_setup.py
+- python generate_product_images.py
+
+RUN BACKEND
+
+- source venv/bin/activate (if not already activated)
 - pip install
 - uvicorn assistant_api:app --host 0.0.0.0 --port 8000
 
-To run frontend
+RUN FRONTEND
 
 - npm install
 - npm run dev
 
-To generate embeddings of product list. Product list must be in "../data/products.json". Embeddings only works with this structure of product.
-
-- python embeddings_setup.py
+To generate embeddings of product list. Product list must be in "../data/products.json". Embeddings only works with this structure of product list
