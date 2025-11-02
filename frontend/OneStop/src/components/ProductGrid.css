@@ -1,7 +1,35 @@
-.productGridMainContainer
-{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-    width: 100%;
+/*
+  Prooduct grid component styling
+*/
+
+.productGridMainContainer {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.5rem;
+  padding: 2rem;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #a2d0fd;
+  justify-items: center;
+}
+
+.productGridMainContainer > * {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.productGridMainContainer > *:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 1000px) {
+  .productGridMainContainer {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 650px) {
+  .productGridMainContainer {
+    grid-template-columns: 1fr;
+  }
 }

@@ -1,0 +1,5433 @@
+[
+  {
+    "id": 1,
+    "name": "CozyLiving Non-stick Frying Pan",
+    "brand": "CozyLiving",
+    "category": "Home & Kitchen",
+    "price": 383.58,
+    "stock": 42,
+    "rating": 4.9,
+    "numReviews": 290,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "GlowUp Facial Cleanser",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 220.81,
+    "stock": 25,
+    "rating": 3.9,
+    "numReviews": 135,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "UrbanStyle Women's Jacket",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 203.81,
+    "stock": 50,
+    "rating": 4.6,
+    "numReviews": 245,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "TrendWear Unisex Sneakers",
+    "brand": "TrendWear",
+    "category": "Clothing",
+    "price": 274.35,
+    "stock": 10,
+    "rating": 4.9,
+    "numReviews": 166,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "GlowUp Facial Cleanser",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 27.23,
+    "stock": 11,
+    "rating": 3.8,
+    "numReviews": 61,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "ToyWorks Building Blocks Set",
+    "brand": "ToyWorks",
+    "category": "Toys & Games",
+    "price": 83.86,
+    "stock": 23,
+    "rating": 3.6,
+    "numReviews": 499,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "KitchenPro Electric Kettle",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "price": 434.72,
+    "stock": 63,
+    "rating": 4.1,
+    "numReviews": 129,
+    "description": "Auto shut-off Fast boiling Cordless",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "capacity": "1.7L",
+      "weight": "0.9kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Auto shut-off",
+      "Fast boiling",
+      "Cordless",
+      "Water level indicator"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ElectroHub Wireless Headphones",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 130.35,
+    "stock": 59,
+    "rating": 3.8,
+    "numReviews": 373,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "FitGear Yoga Mat",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 461.21,
+    "stock": 9,
+    "rating": 4.5,
+    "numReviews": 473,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "VoltX Portable Bluetooth Speaker",
+    "brand": "VoltX",
+    "category": "Electronics",
+    "price": 476.26,
+    "stock": 43,
+    "rating": 3.9,
+    "numReviews": 20,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "PlaySmart Puzzle Game",
+    "brand": "PlaySmart",
+    "category": "Toys & Games",
+    "price": 153.69,
+    "stock": 79,
+    "rating": 4.0,
+    "numReviews": 257,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "ElectroHub Wireless Headphones",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 25.12,
+    "stock": 22,
+    "rating": 4.4,
+    "numReviews": 435,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "FashionHub Men's Hoodie",
+    "brand": "FashionHub",
+    "category": "Clothing",
+    "price": 178.28,
+    "stock": 32,
+    "rating": 5.0,
+    "numReviews": 239,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "FitGear Camping Tent",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 114.35,
+    "stock": 66,
+    "rating": 3.7,
+    "numReviews": 388,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "SkinCareX Facial Cleanser",
+    "brand": "SkinCareX",
+    "category": "Beauty & Personal Care",
+    "price": 54.9,
+    "stock": 16,
+    "rating": 3.6,
+    "numReviews": 52,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "SoundMax Portable Bluetooth Speaker",
+    "brand": "SoundMax",
+    "category": "Electronics",
+    "price": 354.49,
+    "stock": 75,
+    "rating": 4.6,
+    "numReviews": 52,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "PlaySmart Building Blocks Set",
+    "brand": "PlaySmart",
+    "category": "Toys & Games",
+    "price": 15.16,
+    "stock": 29,
+    "rating": 4.6,
+    "numReviews": 345,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "CozyLiving Chef Knife Set",
+    "brand": "CozyLiving",
+    "category": "Home & Kitchen",
+    "price": 432.1,
+    "stock": 100,
+    "rating": 4.6,
+    "numReviews": 189,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "TrendWear Unisex Sneakers",
+    "brand": "TrendWear",
+    "category": "Clothing",
+    "price": 323.67,
+    "stock": 29,
+    "rating": 4.1,
+    "numReviews": 230,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Sportify Camping Tent",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 188.72,
+    "stock": 11,
+    "rating": 4.9,
+    "numReviews": 57,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "ElectroHub Smart Watch",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 308.45,
+    "stock": 20,
+    "rating": 4.3,
+    "numReviews": 308,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "OutdoorPro Dumbbell Set",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 385.15,
+    "stock": 32,
+    "rating": 3.8,
+    "numReviews": 201,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "GigaWave Wireless Headphones",
+    "brand": "GigaWave",
+    "category": "Electronics",
+    "price": 488.67,
+    "stock": 0,
+    "rating": 4.2,
+    "numReviews": 365,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "VoltX Wireless Headphones",
+    "brand": "VoltX",
+    "category": "Electronics",
+    "price": 214.38,
+    "stock": 35,
+    "rating": 3.6,
+    "numReviews": 480,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "GigaWave Portable Bluetooth Speaker",
+    "brand": "GigaWave",
+    "category": "Electronics",
+    "price": 18.11,
+    "stock": 99,
+    "rating": 4.5,
+    "numReviews": 256,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "FitGear Dumbbell Set",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 78.53,
+    "stock": 59,
+    "rating": 3.7,
+    "numReviews": 199,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "FreshFace Moisturizing Lotion",
+    "brand": "FreshFace",
+    "category": "Beauty & Personal Care",
+    "price": 305.24,
+    "stock": 99,
+    "rating": 4.0,
+    "numReviews": 88,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "SoundMax Portable Bluetooth Speaker",
+    "brand": "SoundMax",
+    "category": "Electronics",
+    "price": 430.08,
+    "stock": 4,
+    "rating": 4.2,
+    "numReviews": 231,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Sportify Dumbbell Set",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 289.98,
+    "stock": 35,
+    "rating": 3.7,
+    "numReviews": 50,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "PlaySmart Building Blocks Set",
+    "brand": "PlaySmart",
+    "category": "Toys & Games",
+    "price": 94.47,
+    "stock": 18,
+    "rating": 3.6,
+    "numReviews": 62,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "RadiantYou Vitamin C Serum",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 366.27,
+    "stock": 52,
+    "rating": 4.2,
+    "numReviews": 16,
+    "description": "Brightens skin Hydrating Lightweight",
+    "technicalSpecs": {
+      "ingredients": "Vitamin C, Hyaluronic Acid, Water",
+      "volume": "30ml",
+      "skinType": "All skin types",
+      "color": "Orange"
+    },
+    "features": [
+      "Brightens skin",
+      "Hydrating",
+      "Lightweight",
+      "Dermatologist tested"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "StreetEdge Unisex Sneakers",
+    "brand": "StreetEdge",
+    "category": "Clothing",
+    "price": 232.25,
+    "stock": 67,
+    "rating": 4.9,
+    "numReviews": 367,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "GlowUp Moisturizing Lotion",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 334.2,
+    "stock": 60,
+    "rating": 3.7,
+    "numReviews": 384,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "FitGear Camping Tent",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 184.87,
+    "stock": 21,
+    "rating": 4.2,
+    "numReviews": 314,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "GameZone Puzzle Game",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 274.06,
+    "stock": 82,
+    "rating": 5.0,
+    "numReviews": 185,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "TechPro Smart Watch",
+    "brand": "TechPro",
+    "category": "Electronics",
+    "price": 187.15,
+    "stock": 100,
+    "rating": 4.2,
+    "numReviews": 281,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "VoltX Wireless Headphones",
+    "brand": "VoltX",
+    "category": "Electronics",
+    "price": 463.42,
+    "stock": 73,
+    "rating": 4.7,
+    "numReviews": 238,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "CozyLiving Electric Kettle",
+    "brand": "CozyLiving",
+    "category": "Home & Kitchen",
+    "price": 14.2,
+    "stock": 72,
+    "rating": 3.9,
+    "numReviews": 104,
+    "description": "Auto shut-off Fast boiling Cordless",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "capacity": "1.7L",
+      "weight": "0.9kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Auto shut-off",
+      "Fast boiling",
+      "Cordless",
+      "Water level indicator"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "HomeEase Non-stick Frying Pan",
+    "brand": "HomeEase",
+    "category": "Home & Kitchen",
+    "price": 424.5,
+    "stock": 3,
+    "rating": 4.0,
+    "numReviews": 203,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "ElectroHub Smart Watch",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 168.66,
+    "stock": 24,
+    "rating": 3.5,
+    "numReviews": 88,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "TrailMax Camping Tent",
+    "brand": "TrailMax",
+    "category": "Sports & Outdoors",
+    "price": 128.24,
+    "stock": 44,
+    "rating": 4.6,
+    "numReviews": 197,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "ChicLine Women's Jacket",
+    "brand": "ChicLine",
+    "category": "Clothing",
+    "price": 266.22,
+    "stock": 49,
+    "rating": 4.6,
+    "numReviews": 152,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "HappyPlay Remote Control Car",
+    "brand": "HappyPlay",
+    "category": "Toys & Games",
+    "price": 491.7,
+    "stock": 95,
+    "rating": 3.8,
+    "numReviews": 430,
+    "description": "Fast speed Rechargeable battery Durable",
+    "technicalSpecs": {
+      "material": "Plastic/Metal",
+      "ageRange": "8+",
+      "weight": "1kg",
+      "color": "Red"
+    },
+    "features": [
+      "Fast speed",
+      "Rechargeable battery",
+      "Durable",
+      "Easy control"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "UrbanStyle Women's Jacket",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 164.8,
+    "stock": 62,
+    "rating": 3.6,
+    "numReviews": 270,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "GigaWave Portable Bluetooth Speaker",
+    "brand": "GigaWave",
+    "category": "Electronics",
+    "price": 117.09,
+    "stock": 97,
+    "rating": 3.6,
+    "numReviews": 258,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "FitGear Yoga Mat",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 277.24,
+    "stock": 53,
+    "rating": 3.9,
+    "numReviews": 145,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "ToyWorks Puzzle Game",
+    "brand": "ToyWorks",
+    "category": "Toys & Games",
+    "price": 108.01,
+    "stock": 77,
+    "rating": 3.7,
+    "numReviews": 39,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "ChicLine Women's Jacket",
+    "brand": "ChicLine",
+    "category": "Clothing",
+    "price": 232.93,
+    "stock": 68,
+    "rating": 4.9,
+    "numReviews": 136,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "SoundMax Smart Watch",
+    "brand": "SoundMax",
+    "category": "Electronics",
+    "price": 465.61,
+    "stock": 64,
+    "rating": 4.1,
+    "numReviews": 313,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "StreetEdge Men's Hoodie",
+    "brand": "StreetEdge",
+    "category": "Clothing",
+    "price": 439.79,
+    "stock": 27,
+    "rating": 3.8,
+    "numReviews": 402,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "ToyWorks Puzzle Game",
+    "brand": "ToyWorks",
+    "category": "Toys & Games",
+    "price": 222.94,
+    "stock": 66,
+    "rating": 4.0,
+    "numReviews": 350,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "StreetEdge Unisex Sneakers",
+    "brand": "StreetEdge",
+    "category": "Clothing",
+    "price": 410.65,
+    "stock": 6,
+    "rating": 3.7,
+    "numReviews": 21,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "OutdoorPro Yoga Mat",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 55.69,
+    "stock": 8,
+    "rating": 4.9,
+    "numReviews": 39,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "DailyHome Chef Knife Set",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 349.53,
+    "stock": 12,
+    "rating": 3.7,
+    "numReviews": 345,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "DailyHome Non-stick Frying Pan",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 176.0,
+    "stock": 47,
+    "rating": 4.6,
+    "numReviews": 352,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "TrendWear Unisex Sneakers",
+    "brand": "TrendWear",
+    "category": "Clothing",
+    "price": 339.13,
+    "stock": 25,
+    "rating": 4.6,
+    "numReviews": 428,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "HouseBlend Non-stick Frying Pan",
+    "brand": "HouseBlend",
+    "category": "Home & Kitchen",
+    "price": 442.03,
+    "stock": 10,
+    "rating": 4.2,
+    "numReviews": 232,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "GlowUp Vitamin C Serum",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 14.4,
+    "stock": 47,
+    "rating": 4.0,
+    "numReviews": 30,
+    "description": "Brightens skin Hydrating Lightweight",
+    "technicalSpecs": {
+      "ingredients": "Vitamin C, Hyaluronic Acid, Water",
+      "volume": "30ml",
+      "skinType": "All skin types",
+      "color": "Orange"
+    },
+    "features": [
+      "Brightens skin",
+      "Hydrating",
+      "Lightweight",
+      "Dermatologist tested"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "ToyWorks Building Blocks Set",
+    "brand": "ToyWorks",
+    "category": "Toys & Games",
+    "price": 277.98,
+    "stock": 10,
+    "rating": 3.5,
+    "numReviews": 65,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Sportify Camping Tent",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 217.53,
+    "stock": 68,
+    "rating": 4.6,
+    "numReviews": 318,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "ElectroHub Smart Watch",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 491.65,
+    "stock": 87,
+    "rating": 4.2,
+    "numReviews": 484,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "HomeEase Non-stick Frying Pan",
+    "brand": "HomeEase",
+    "category": "Home & Kitchen",
+    "price": 197.28,
+    "stock": 15,
+    "rating": 4.3,
+    "numReviews": 370,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "DailyHome Chef Knife Set",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 249.95,
+    "stock": 9,
+    "rating": 3.8,
+    "numReviews": 269,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "TechPro Smart Watch",
+    "brand": "TechPro",
+    "category": "Electronics",
+    "price": 159.77,
+    "stock": 82,
+    "rating": 4.7,
+    "numReviews": 66,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "FitGear Yoga Mat",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 380.35,
+    "stock": 9,
+    "rating": 4.0,
+    "numReviews": 222,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "DailyHome Non-stick Frying Pan",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 28.46,
+    "stock": 47,
+    "rating": 3.9,
+    "numReviews": 162,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "GameZone Building Blocks Set",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 74.42,
+    "stock": 61,
+    "rating": 4.4,
+    "numReviews": 484,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "GameZone Puzzle Game",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 60.67,
+    "stock": 14,
+    "rating": 4.3,
+    "numReviews": 427,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "UrbanStyle Women's Jacket",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 493.1,
+    "stock": 38,
+    "rating": 4.5,
+    "numReviews": 143,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "DailyHome Chef Knife Set",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 237.11,
+    "stock": 8,
+    "rating": 3.7,
+    "numReviews": 308,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Sportify Camping Tent",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 256.66,
+    "stock": 42,
+    "rating": 4.1,
+    "numReviews": 242,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "HomeEase Non-stick Frying Pan",
+    "brand": "HomeEase",
+    "category": "Home & Kitchen",
+    "price": 141.77,
+    "stock": 1,
+    "rating": 4.2,
+    "numReviews": 300,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "KitchenPro Non-stick Frying Pan",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "price": 425.03,
+    "stock": 8,
+    "rating": 4.3,
+    "numReviews": 326,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "FitGear Dumbbell Set",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 306.1,
+    "stock": 11,
+    "rating": 4.9,
+    "numReviews": 449,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "RadiantYou Moisturizing Lotion",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 285.19,
+    "stock": 16,
+    "rating": 4.9,
+    "numReviews": 243,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Sportify Yoga Mat",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 420.19,
+    "stock": 3,
+    "rating": 4.1,
+    "numReviews": 167,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "ToyWorks Remote Control Car",
+    "brand": "ToyWorks",
+    "category": "Toys & Games",
+    "price": 126.4,
+    "stock": 2,
+    "rating": 3.8,
+    "numReviews": 0,
+    "description": "Fast speed Rechargeable battery Durable",
+    "technicalSpecs": {
+      "material": "Plastic/Metal",
+      "ageRange": "8+",
+      "weight": "1kg",
+      "color": "Red"
+    },
+    "features": [
+      "Fast speed",
+      "Rechargeable battery",
+      "Durable",
+      "Easy control"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "TechPro Smart Watch",
+    "brand": "TechPro",
+    "category": "Electronics",
+    "price": 477.28,
+    "stock": 0,
+    "rating": 3.5,
+    "numReviews": 266,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "FashionHub Women's Jacket",
+    "brand": "FashionHub",
+    "category": "Clothing",
+    "price": 230.6,
+    "stock": 18,
+    "rating": 4.7,
+    "numReviews": 161,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "HappyPlay Remote Control Car",
+    "brand": "HappyPlay",
+    "category": "Toys & Games",
+    "price": 168.22,
+    "stock": 47,
+    "rating": 4.6,
+    "numReviews": 245,
+    "description": "Fast speed Rechargeable battery Durable",
+    "technicalSpecs": {
+      "material": "Plastic/Metal",
+      "ageRange": "8+",
+      "weight": "1kg",
+      "color": "Red"
+    },
+    "features": [
+      "Fast speed",
+      "Rechargeable battery",
+      "Durable",
+      "Easy control"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "HouseBlend Electric Kettle",
+    "brand": "HouseBlend",
+    "category": "Home & Kitchen",
+    "price": 383.83,
+    "stock": 8,
+    "rating": 4.1,
+    "numReviews": 34,
+    "description": "Auto shut-off Fast boiling Cordless",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "capacity": "1.7L",
+      "weight": "0.9kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Auto shut-off",
+      "Fast boiling",
+      "Cordless",
+      "Water level indicator"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "UrbanStyle Men's Hoodie",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 323.47,
+    "stock": 14,
+    "rating": 4.6,
+    "numReviews": 113,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "HappyPlay Remote Control Car",
+    "brand": "HappyPlay",
+    "category": "Toys & Games",
+    "price": 435.69,
+    "stock": 11,
+    "rating": 4.0,
+    "numReviews": 299,
+    "description": "Fast speed Rechargeable battery Durable",
+    "technicalSpecs": {
+      "material": "Plastic/Metal",
+      "ageRange": "8+",
+      "weight": "1kg",
+      "color": "Red"
+    },
+    "features": [
+      "Fast speed",
+      "Rechargeable battery",
+      "Durable",
+      "Easy control"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Sportify Camping Tent",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 272.01,
+    "stock": 46,
+    "rating": 3.9,
+    "numReviews": 391,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "TechPro Portable Bluetooth Speaker",
+    "brand": "TechPro",
+    "category": "Electronics",
+    "price": 353.81,
+    "stock": 14,
+    "rating": 3.7,
+    "numReviews": 249,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "DailyHome Non-stick Frying Pan",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 33.82,
+    "stock": 53,
+    "rating": 4.7,
+    "numReviews": 379,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "FunTime Puzzle Game",
+    "brand": "FunTime",
+    "category": "Toys & Games",
+    "price": 353.8,
+    "stock": 61,
+    "rating": 4.1,
+    "numReviews": 498,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "KitchenPro Chef Knife Set",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "price": 223.53,
+    "stock": 19,
+    "rating": 4.3,
+    "numReviews": 253,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "ActiveLife Dumbbell Set",
+    "brand": "ActiveLife",
+    "category": "Sports & Outdoors",
+    "price": 308.42,
+    "stock": 84,
+    "rating": 3.8,
+    "numReviews": 446,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "SkinCareX Facial Cleanser",
+    "brand": "SkinCareX",
+    "category": "Beauty & Personal Care",
+    "price": 311.12,
+    "stock": 58,
+    "rating": 4.5,
+    "numReviews": 71,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "SoundMax Wireless Headphones",
+    "brand": "SoundMax",
+    "category": "Electronics",
+    "price": 163.91,
+    "stock": 76,
+    "rating": 3.7,
+    "numReviews": 355,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "UrbanStyle Men's Hoodie",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 39.52,
+    "stock": 13,
+    "rating": 4.6,
+    "numReviews": 11,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "VoltX Smart Watch",
+    "brand": "VoltX",
+    "category": "Electronics",
+    "price": 458.32,
+    "stock": 22,
+    "rating": 4.9,
+    "numReviews": 113,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "ChicLine Women's Jacket",
+    "brand": "ChicLine",
+    "category": "Clothing",
+    "price": 56.72,
+    "stock": 88,
+    "rating": 4.4,
+    "numReviews": 277,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "ChicLine Unisex Sneakers",
+    "brand": "ChicLine",
+    "category": "Clothing",
+    "price": 370.83,
+    "stock": 39,
+    "rating": 3.5,
+    "numReviews": 295,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "VoltX Portable Bluetooth Speaker",
+    "brand": "VoltX",
+    "category": "Electronics",
+    "price": 165.58,
+    "stock": 81,
+    "rating": 4.3,
+    "numReviews": 85,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "DailyHome Non-stick Frying Pan",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 316.43,
+    "stock": 18,
+    "rating": 4.6,
+    "numReviews": 240,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "TrailMax Yoga Mat",
+    "brand": "TrailMax",
+    "category": "Sports & Outdoors",
+    "price": 260.18,
+    "stock": 79,
+    "rating": 4.8,
+    "numReviews": 206,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "GameZone Puzzle Game",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 355.84,
+    "stock": 52,
+    "rating": 3.8,
+    "numReviews": 335,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "GigaWave Wireless Headphones",
+    "brand": "GigaWave",
+    "category": "Electronics",
+    "price": 293.01,
+    "stock": 89,
+    "rating": 3.8,
+    "numReviews": 183,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "ElectroHub Smart Watch",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 15.61,
+    "stock": 9,
+    "rating": 4.5,
+    "numReviews": 76,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg",
+      "/images/electronics_3.jpg"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "FitGear Dumbbell Set",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 324.15,
+    "stock": 13,
+    "rating": 3.8,
+    "numReviews": 305,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "BeautyPlus Moisturizing Lotion",
+    "brand": "BeautyPlus",
+    "category": "Beauty & Personal Care",
+    "price": 434.78,
+    "stock": 68,
+    "rating": 4.0,
+    "numReviews": 304,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "BeautyPlus Vitamin C Serum",
+    "brand": "BeautyPlus",
+    "category": "Beauty & Personal Care",
+    "price": 321.93,
+    "stock": 19,
+    "rating": 4.0,
+    "numReviews": 441,
+    "description": "Brightens skin Hydrating Lightweight",
+    "technicalSpecs": {
+      "ingredients": "Vitamin C, Hyaluronic Acid, Water",
+      "volume": "30ml",
+      "skinType": "All skin types",
+      "color": "Orange"
+    },
+    "features": [
+      "Brightens skin",
+      "Hydrating",
+      "Lightweight",
+      "Dermatologist tested"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "DailyHome Non-stick Frying Pan",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 303.11,
+    "stock": 31,
+    "rating": 4.1,
+    "numReviews": 349,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "UrbanStyle Men's Hoodie",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 87.73,
+    "stock": 50,
+    "rating": 3.5,
+    "numReviews": 422,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "ActiveLife Camping Tent",
+    "brand": "ActiveLife",
+    "category": "Sports & Outdoors",
+    "price": 19.75,
+    "stock": 78,
+    "rating": 4.8,
+    "numReviews": 335,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "HouseBlend Electric Kettle",
+    "brand": "HouseBlend",
+    "category": "Home & Kitchen",
+    "price": 487.99,
+    "stock": 66,
+    "rating": 4.2,
+    "numReviews": 500,
+    "description": "Auto shut-off Fast boiling Cordless",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "capacity": "1.7L",
+      "weight": "0.9kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Auto shut-off",
+      "Fast boiling",
+      "Cordless",
+      "Water level indicator"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "OutdoorPro Yoga Mat",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 473.6,
+    "stock": 36,
+    "rating": 4.9,
+    "numReviews": 439,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "TrendWear Men's Hoodie",
+    "brand": "TrendWear",
+    "category": "Clothing",
+    "price": 162.98,
+    "stock": 98,
+    "rating": 4.1,
+    "numReviews": 361,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "KitchenPro Chef Knife Set",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "price": 226.31,
+    "stock": 46,
+    "rating": 4.5,
+    "numReviews": 70,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "HappyPlay Puzzle Game",
+    "brand": "HappyPlay",
+    "category": "Toys & Games",
+    "price": 174.17,
+    "stock": 78,
+    "rating": 4.9,
+    "numReviews": 133,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "GlowUp Moisturizing Lotion",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 214.51,
+    "stock": 24,
+    "rating": 4.2,
+    "numReviews": 100,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "HomeEase Non-stick Frying Pan",
+    "brand": "HomeEase",
+    "category": "Home & Kitchen",
+    "price": 23.17,
+    "stock": 90,
+    "rating": 4.0,
+    "numReviews": 323,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "UrbanStyle Unisex Sneakers",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 171.68,
+    "stock": 99,
+    "rating": 4.6,
+    "numReviews": 376,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "UrbanStyle Men's Hoodie",
+    "brand": "UrbanStyle",
+    "category": "Clothing",
+    "price": 387.5,
+    "stock": 77,
+    "rating": 4.1,
+    "numReviews": 226,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "OutdoorPro Camping Tent",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 132.18,
+    "stock": 0,
+    "rating": 4.4,
+    "numReviews": 97,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "GameZone Building Blocks Set",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 270.08,
+    "stock": 21,
+    "rating": 4.3,
+    "numReviews": 490,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "HappyPlay Building Blocks Set",
+    "brand": "HappyPlay",
+    "category": "Toys & Games",
+    "price": 235.77,
+    "stock": 83,
+    "rating": 4.7,
+    "numReviews": 194,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "FashionHub Unisex Sneakers",
+    "brand": "FashionHub",
+    "category": "Clothing",
+    "price": 303.24,
+    "stock": 61,
+    "rating": 3.7,
+    "numReviews": 486,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "RadiantYou Facial Cleanser",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 269.33,
+    "stock": 82,
+    "rating": 4.7,
+    "numReviews": 260,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "FashionHub Unisex Sneakers",
+    "brand": "FashionHub",
+    "category": "Clothing",
+    "price": 56.81,
+    "stock": 43,
+    "rating": 3.7,
+    "numReviews": 66,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "CozyLiving Non-stick Frying Pan",
+    "brand": "CozyLiving",
+    "category": "Home & Kitchen",
+    "price": 274.13,
+    "stock": 95,
+    "rating": 3.7,
+    "numReviews": 69,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "ActiveLife Camping Tent",
+    "brand": "ActiveLife",
+    "category": "Sports & Outdoors",
+    "price": 465.32,
+    "stock": 66,
+    "rating": 4.9,
+    "numReviews": 293,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "GlowUp Facial Cleanser",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 347.88,
+    "stock": 46,
+    "rating": 4.1,
+    "numReviews": 460,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "OutdoorPro Dumbbell Set",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 76.76,
+    "stock": 60,
+    "rating": 3.7,
+    "numReviews": 465,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "RadiantYou Moisturizing Lotion",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 104.16,
+    "stock": 31,
+    "rating": 3.8,
+    "numReviews": 54,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "TrendWear Unisex Sneakers",
+    "brand": "TrendWear",
+    "category": "Clothing",
+    "price": 282.39,
+    "stock": 86,
+    "rating": 4.2,
+    "numReviews": 80,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "OutdoorPro Yoga Mat",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 92.88,
+    "stock": 6,
+    "rating": 4.6,
+    "numReviews": 272,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "FitGear Camping Tent",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 296.36,
+    "stock": 50,
+    "rating": 4.5,
+    "numReviews": 358,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Sportify Camping Tent",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 48.04,
+    "stock": 99,
+    "rating": 4.3,
+    "numReviews": 430,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "FitGear Yoga Mat",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 82.39,
+    "stock": 65,
+    "rating": 5.0,
+    "numReviews": 246,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "GameZone Building Blocks Set",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 429.15,
+    "stock": 70,
+    "rating": 3.6,
+    "numReviews": 25,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "OutdoorPro Yoga Mat",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 434.55,
+    "stock": 56,
+    "rating": 4.8,
+    "numReviews": 496,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "PlaySmart Puzzle Game",
+    "brand": "PlaySmart",
+    "category": "Toys & Games",
+    "price": 112.83,
+    "stock": 88,
+    "rating": 4.0,
+    "numReviews": 260,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "GlowUp Facial Cleanser",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 292.4,
+    "stock": 43,
+    "rating": 4.0,
+    "numReviews": 416,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "StreetEdge Men's Hoodie",
+    "brand": "StreetEdge",
+    "category": "Clothing",
+    "price": 468.34,
+    "stock": 41,
+    "rating": 4.5,
+    "numReviews": 364,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "FitGear Camping Tent",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 190.66,
+    "stock": 79,
+    "rating": 4.8,
+    "numReviews": 80,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "DailyHome Electric Kettle",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 249.18,
+    "stock": 26,
+    "rating": 3.8,
+    "numReviews": 16,
+    "description": "Auto shut-off Fast boiling Cordless",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "capacity": "1.7L",
+      "weight": "0.9kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Auto shut-off",
+      "Fast boiling",
+      "Cordless",
+      "Water level indicator"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "StreetEdge Men's Hoodie",
+    "brand": "StreetEdge",
+    "category": "Clothing",
+    "price": 232.81,
+    "stock": 25,
+    "rating": 3.6,
+    "numReviews": 431,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "ChicLine Unisex Sneakers",
+    "brand": "ChicLine",
+    "category": "Clothing",
+    "price": 393.86,
+    "stock": 16,
+    "rating": 4.6,
+    "numReviews": 266,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "PlaySmart Building Blocks Set",
+    "brand": "PlaySmart",
+    "category": "Toys & Games",
+    "price": 415.1,
+    "stock": 81,
+    "rating": 3.8,
+    "numReviews": 129,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "SoundMax Portable Bluetooth Speaker",
+    "brand": "SoundMax",
+    "category": "Electronics",
+    "price": 122.18,
+    "stock": 51,
+    "rating": 4.0,
+    "numReviews": 381,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "FreshFace Moisturizing Lotion",
+    "brand": "FreshFace",
+    "category": "Beauty & Personal Care",
+    "price": 74.04,
+    "stock": 47,
+    "rating": 3.6,
+    "numReviews": 335,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "PlaySmart Remote Control Car",
+    "brand": "PlaySmart",
+    "category": "Toys & Games",
+    "price": 420.53,
+    "stock": 25,
+    "rating": 4.8,
+    "numReviews": 424,
+    "description": "Fast speed Rechargeable battery Durable",
+    "technicalSpecs": {
+      "material": "Plastic/Metal",
+      "ageRange": "8+",
+      "weight": "1kg",
+      "color": "Red"
+    },
+    "features": [
+      "Fast speed",
+      "Rechargeable battery",
+      "Durable",
+      "Easy control"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "DailyHome Chef Knife Set",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 29.18,
+    "stock": 61,
+    "rating": 4.9,
+    "numReviews": 151,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "OutdoorPro Yoga Mat",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 423.6,
+    "stock": 16,
+    "rating": 3.6,
+    "numReviews": 300,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "ToyWorks Puzzle Game",
+    "brand": "ToyWorks",
+    "category": "Toys & Games",
+    "price": 348.76,
+    "stock": 16,
+    "rating": 3.6,
+    "numReviews": 431,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "BeautyPlus Vitamin C Serum",
+    "brand": "BeautyPlus",
+    "category": "Beauty & Personal Care",
+    "price": 86.19,
+    "stock": 56,
+    "rating": 4.3,
+    "numReviews": 278,
+    "description": "Brightens skin Hydrating Lightweight",
+    "technicalSpecs": {
+      "ingredients": "Vitamin C, Hyaluronic Acid, Water",
+      "volume": "30ml",
+      "skinType": "All skin types",
+      "color": "Orange"
+    },
+    "features": [
+      "Brightens skin",
+      "Hydrating",
+      "Lightweight",
+      "Dermatologist tested"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "BeautyPlus Moisturizing Lotion",
+    "brand": "BeautyPlus",
+    "category": "Beauty & Personal Care",
+    "price": 373.02,
+    "stock": 59,
+    "rating": 5.0,
+    "numReviews": 221,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "TrailMax Yoga Mat",
+    "brand": "TrailMax",
+    "category": "Sports & Outdoors",
+    "price": 412.58,
+    "stock": 10,
+    "rating": 4.6,
+    "numReviews": 159,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "HomeEase Non-stick Frying Pan",
+    "brand": "HomeEase",
+    "category": "Home & Kitchen",
+    "price": 278.92,
+    "stock": 69,
+    "rating": 3.9,
+    "numReviews": 53,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "GigaWave Smart Watch",
+    "brand": "GigaWave",
+    "category": "Electronics",
+    "price": 233.57,
+    "stock": 7,
+    "rating": 4.5,
+    "numReviews": 235,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "FunTime Puzzle Game",
+    "brand": "FunTime",
+    "category": "Toys & Games",
+    "price": 101.54,
+    "stock": 31,
+    "rating": 4.0,
+    "numReviews": 247,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg",
+      "/images/toys_&_games_3.jpg"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "FashionHub Women's Jacket",
+    "brand": "FashionHub",
+    "category": "Clothing",
+    "price": 365.21,
+    "stock": 92,
+    "rating": 4.9,
+    "numReviews": 35,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "HouseBlend Chef Knife Set",
+    "brand": "HouseBlend",
+    "category": "Home & Kitchen",
+    "price": 159.03,
+    "stock": 4,
+    "rating": 4.8,
+    "numReviews": 164,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "RadiantYou Moisturizing Lotion",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 35.99,
+    "stock": 87,
+    "rating": 4.6,
+    "numReviews": 77,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "RadiantYou Facial Cleanser",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 219.63,
+    "stock": 82,
+    "rating": 4.0,
+    "numReviews": 141,
+    "description": "Gentle cleansing Foaming Hydrating",
+    "technicalSpecs": {
+      "ingredients": "Aloe Vera, Glycerin, Water",
+      "volume": "200ml",
+      "skinType": "All skin types",
+      "color": "White"
+    },
+    "features": [
+      "Gentle cleansing",
+      "Foaming",
+      "Hydrating",
+      "Non-irritating"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg",
+      "/images/beauty_&_personal_care_3.jpg"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "GameZone Remote Control Car",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 369.98,
+    "stock": 27,
+    "rating": 4.0,
+    "numReviews": 403,
+    "description": "Fast speed Rechargeable battery Durable",
+    "technicalSpecs": {
+      "material": "Plastic/Metal",
+      "ageRange": "8+",
+      "weight": "1kg",
+      "color": "Red"
+    },
+    "features": [
+      "Fast speed",
+      "Rechargeable battery",
+      "Durable",
+      "Easy control"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "RadiantYou Vitamin C Serum",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 191.34,
+    "stock": 26,
+    "rating": 4.4,
+    "numReviews": 201,
+    "description": "Brightens skin Hydrating Lightweight",
+    "technicalSpecs": {
+      "ingredients": "Vitamin C, Hyaluronic Acid, Water",
+      "volume": "30ml",
+      "skinType": "All skin types",
+      "color": "Orange"
+    },
+    "features": [
+      "Brightens skin",
+      "Hydrating",
+      "Lightweight",
+      "Dermatologist tested"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "VoltX Smart Watch",
+    "brand": "VoltX",
+    "category": "Electronics",
+    "price": 77.96,
+    "stock": 69,
+    "rating": 4.5,
+    "numReviews": 367,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "SoundMax Portable Bluetooth Speaker",
+    "brand": "SoundMax",
+    "category": "Electronics",
+    "price": 432.65,
+    "stock": 43,
+    "rating": 4.9,
+    "numReviews": 25,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "HappyPlay Puzzle Game",
+    "brand": "HappyPlay",
+    "category": "Toys & Games",
+    "price": 149.74,
+    "stock": 21,
+    "rating": 4.1,
+    "numReviews": 60,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "ChicLine Unisex Sneakers",
+    "brand": "ChicLine",
+    "category": "Clothing",
+    "price": 365.86,
+    "stock": 54,
+    "rating": 4.5,
+    "numReviews": 293,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "GlowUp Moisturizing Lotion",
+    "brand": "GlowUp",
+    "category": "Beauty & Personal Care",
+    "price": 468.25,
+    "stock": 63,
+    "rating": 4.6,
+    "numReviews": 158,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "GameZone Puzzle Game",
+    "brand": "GameZone",
+    "category": "Toys & Games",
+    "price": 118.01,
+    "stock": 89,
+    "rating": 4.3,
+    "numReviews": 11,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "FitGear Yoga Mat",
+    "brand": "FitGear",
+    "category": "Sports & Outdoors",
+    "price": 388.0,
+    "stock": 48,
+    "rating": 5.0,
+    "numReviews": 131,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "ElectroHub Smart Watch",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 369.41,
+    "stock": 88,
+    "rating": 4.6,
+    "numReviews": 209,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "ElectroHub Wireless Headphones",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 344.11,
+    "stock": 33,
+    "rating": 4.7,
+    "numReviews": 222,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "KitchenPro Non-stick Frying Pan",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "price": 209.13,
+    "stock": 14,
+    "rating": 4.1,
+    "numReviews": 229,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "ElectroHub Wireless Headphones",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 299.44,
+    "stock": 24,
+    "rating": 4.6,
+    "numReviews": 284,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "DailyHome Non-stick Frying Pan",
+    "brand": "DailyHome",
+    "category": "Home & Kitchen",
+    "price": 387.29,
+    "stock": 38,
+    "rating": 4.5,
+    "numReviews": 185,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "ToyWorks Building Blocks Set",
+    "brand": "ToyWorks",
+    "category": "Toys & Games",
+    "price": 134.01,
+    "stock": 18,
+    "rating": 4.6,
+    "numReviews": 389,
+    "description": "Encourages creativity Durable Includes 150 pieces",
+    "technicalSpecs": {
+      "material": "ABS Plastic",
+      "ageRange": "3+",
+      "weight": "0.8kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Encourages creativity",
+      "Durable",
+      "Includes 150 pieces",
+      "Easy to assemble"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg",
+      "/images/toys_&_games_2.jpg"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "TrailMax Yoga Mat",
+    "brand": "TrailMax",
+    "category": "Sports & Outdoors",
+    "price": 331.38,
+    "stock": 92,
+    "rating": 4.3,
+    "numReviews": 267,
+    "description": "Non-slip Lightweight Easy to clean",
+    "technicalSpecs": {
+      "material": "TPE Foam",
+      "dimensions": "183cm x 61cm x 6mm",
+      "weight": "1.2kg",
+      "color": "Purple"
+    },
+    "features": [
+      "Non-slip",
+      "Lightweight",
+      "Easy to clean",
+      "Durable"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "CozyLiving Chef Knife Set",
+    "brand": "CozyLiving",
+    "category": "Home & Kitchen",
+    "price": 167.79,
+    "stock": 60,
+    "rating": 3.6,
+    "numReviews": 421,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "ActiveLife Camping Tent",
+    "brand": "ActiveLife",
+    "category": "Sports & Outdoors",
+    "price": 434.8,
+    "stock": 55,
+    "rating": 4.8,
+    "numReviews": 337,
+    "description": "Waterproof Lightweight Easy setup",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "dimensions": "210cm x 210cm",
+      "weight": "3kg",
+      "color": "Green"
+    },
+    "features": [
+      "Waterproof",
+      "Lightweight",
+      "Easy setup",
+      "UV resistant"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "TrendWear Women's Jacket",
+    "brand": "TrendWear",
+    "category": "Clothing",
+    "price": 474.57,
+    "stock": 21,
+    "rating": 4.1,
+    "numReviews": 167,
+    "description": "Water-resistant Lightweight Zipper closure",
+    "technicalSpecs": {
+      "material": "Polyester",
+      "size": "S, M, L",
+      "color": "Red",
+      "gender": "Women"
+    },
+    "features": [
+      "Water-resistant",
+      "Lightweight",
+      "Zipper closure",
+      "Pockets"
+    ],
+    "images": [
+      "/images/clothing_1.jpg"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "BeautyPlus Moisturizing Lotion",
+    "brand": "BeautyPlus",
+    "category": "Beauty & Personal Care",
+    "price": 416.78,
+    "stock": 86,
+    "rating": 4.1,
+    "numReviews": 264,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "TechPro Portable Bluetooth Speaker",
+    "brand": "TechPro",
+    "category": "Electronics",
+    "price": 269.67,
+    "stock": 85,
+    "rating": 4.6,
+    "numReviews": 236,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "ElectroHub Smart Watch",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 68.75,
+    "stock": 36,
+    "rating": 4.3,
+    "numReviews": 343,
+    "description": "Heart rate monitor Sleep tracking Step counter",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.1",
+      "batteryLife": "36 hours",
+      "weight": "50g",
+      "color": "Black",
+      "screenSize": "1.5 inch"
+    },
+    "features": [
+      "Heart rate monitor",
+      "Sleep tracking",
+      "Step counter",
+      "Notifications"
+    ],
+    "images": [
+      "/images/electronics_1.jpg",
+      "/images/electronics_2.jpg"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "TrendWear Unisex Sneakers",
+    "brand": "TrendWear",
+    "category": "Clothing",
+    "price": 130.02,
+    "stock": 45,
+    "rating": 4.1,
+    "numReviews": 13,
+    "description": "Comfortable Non-slip sole Lightweight",
+    "technicalSpecs": {
+      "material": "Mesh",
+      "size": "6-12",
+      "color": "White",
+      "gender": "Unisex"
+    },
+    "features": [
+      "Comfortable",
+      "Non-slip sole",
+      "Lightweight",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "OutdoorPro Dumbbell Set",
+    "brand": "OutdoorPro",
+    "category": "Sports & Outdoors",
+    "price": 170.05,
+    "stock": 25,
+    "rating": 4.5,
+    "numReviews": 265,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "VoltX Portable Bluetooth Speaker",
+    "brand": "VoltX",
+    "category": "Electronics",
+    "price": 243.05,
+    "stock": 19,
+    "rating": 3.6,
+    "numReviews": 398,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "PlaySmart Puzzle Game",
+    "brand": "PlaySmart",
+    "category": "Toys & Games",
+    "price": 68.39,
+    "stock": 14,
+    "rating": 4.3,
+    "numReviews": 322,
+    "description": "Brain exercise Challenging Durable pieces",
+    "technicalSpecs": {
+      "material": "Cardboard",
+      "ageRange": "6+",
+      "weight": "0.5kg",
+      "color": "Multicolor"
+    },
+    "features": [
+      "Brain exercise",
+      "Challenging",
+      "Durable pieces",
+      "Portable"
+    ],
+    "images": [
+      "/images/toys_&_games_1.jpg"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "ChicLine Men's Hoodie",
+    "brand": "ChicLine",
+    "category": "Clothing",
+    "price": 483.24,
+    "stock": 84,
+    "rating": 3.7,
+    "numReviews": 312,
+    "description": "Adjustable hood Kangaroo pocket Machine washable",
+    "technicalSpecs": {
+      "material": "100% Cotton",
+      "size": "S, M, L, XL",
+      "color": "Gray",
+      "gender": "Men"
+    },
+    "features": [
+      "Adjustable hood",
+      "Kangaroo pocket",
+      "Machine washable",
+      "Breathable"
+    ],
+    "images": [
+      "/images/clothing_1.jpg",
+      "/images/clothing_2.jpg",
+      "/images/clothing_3.jpg"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "TechPro Wireless Headphones",
+    "brand": "TechPro",
+    "category": "Electronics",
+    "price": 36.86,
+    "stock": 18,
+    "rating": 3.5,
+    "numReviews": 469,
+    "description": "Active noise cancellation Foldable design Built-in microphone",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "20 hours",
+      "weight": "250g",
+      "color": "Black",
+      "driverSize": "40mm",
+      "frequencyResponse": "20Hz - 20kHz",
+      "microphone": true,
+      "noiseCancellation": true
+    },
+    "features": [
+      "Active noise cancellation",
+      "Foldable design",
+      "Built-in microphone",
+      "Quick charge 10min=2hrs"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Sportify Dumbbell Set",
+    "brand": "Sportify",
+    "category": "Sports & Outdoors",
+    "price": 244.64,
+    "stock": 73,
+    "rating": 4.9,
+    "numReviews": 406,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "TrailMax Dumbbell Set",
+    "brand": "TrailMax",
+    "category": "Sports & Outdoors",
+    "price": 139.51,
+    "stock": 20,
+    "rating": 4.9,
+    "numReviews": 34,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg",
+      "/images/sports_&_outdoors_3.jpg"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "HouseBlend Chef Knife Set",
+    "brand": "HouseBlend",
+    "category": "Home & Kitchen",
+    "price": 45.6,
+    "stock": 52,
+    "rating": 4.2,
+    "numReviews": 27,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "FreshFace Moisturizing Lotion",
+    "brand": "FreshFace",
+    "category": "Beauty & Personal Care",
+    "price": 77.11,
+    "stock": 45,
+    "rating": 3.7,
+    "numReviews": 241,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "HomeEase Chef Knife Set",
+    "brand": "HomeEase",
+    "category": "Home & Kitchen",
+    "price": 60.65,
+    "stock": 77,
+    "rating": 4.0,
+    "numReviews": 253,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "FreshFace Moisturizing Lotion",
+    "brand": "FreshFace",
+    "category": "Beauty & Personal Care",
+    "price": 275.37,
+    "stock": 2,
+    "rating": 3.7,
+    "numReviews": 356,
+    "description": "Deep hydration Fast absorption Non-greasy",
+    "technicalSpecs": {
+      "ingredients": "Shea Butter, Aloe, Water",
+      "volume": "250ml",
+      "skinType": "Dry skin",
+      "color": "White"
+    },
+    "features": [
+      "Deep hydration",
+      "Fast absorption",
+      "Non-greasy",
+      "Daily use"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "FreshFace Vitamin C Serum",
+    "brand": "FreshFace",
+    "category": "Beauty & Personal Care",
+    "price": 478.82,
+    "stock": 66,
+    "rating": 3.6,
+    "numReviews": 231,
+    "description": "Brightens skin Hydrating Lightweight",
+    "technicalSpecs": {
+      "ingredients": "Vitamin C, Hyaluronic Acid, Water",
+      "volume": "30ml",
+      "skinType": "All skin types",
+      "color": "Orange"
+    },
+    "features": [
+      "Brightens skin",
+      "Hydrating",
+      "Lightweight",
+      "Dermatologist tested"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg",
+      "/images/beauty_&_personal_care_2.jpg"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "ElectroHub Portable Bluetooth Speaker",
+    "brand": "ElectroHub",
+    "category": "Electronics",
+    "price": 434.85,
+    "stock": 55,
+    "rating": 4.5,
+    "numReviews": 88,
+    "description": "Water-resistant Compact size 360-degree sound",
+    "technicalSpecs": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "12 hours",
+      "weight": "500g",
+      "color": "Blue",
+      "power": "10W"
+    },
+    "features": [
+      "Water-resistant",
+      "Compact size",
+      "360-degree sound",
+      "Rechargeable battery"
+    ],
+    "images": [
+      "/images/electronics_1.jpg"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "CozyLiving Non-stick Frying Pan",
+    "brand": "CozyLiving",
+    "category": "Home & Kitchen",
+    "price": 233.8,
+    "stock": 54,
+    "rating": 4.2,
+    "numReviews": 362,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "TrailMax Dumbbell Set",
+    "brand": "TrailMax",
+    "category": "Sports & Outdoors",
+    "price": 437.62,
+    "stock": 81,
+    "rating": 4.1,
+    "numReviews": 363,
+    "description": "Adjustable weights Ergonomic handle Durable coating",
+    "technicalSpecs": {
+      "material": "Cast Iron",
+      "weight": "10-50kg",
+      "color": "Black"
+    },
+    "features": [
+      "Adjustable weights",
+      "Ergonomic handle",
+      "Durable coating",
+      "Compact design"
+    ],
+    "images": [
+      "/images/sports_&_outdoors_1.jpg",
+      "/images/sports_&_outdoors_2.jpg"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "KitchenPro Electric Kettle",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "price": 90.36,
+    "stock": 13,
+    "rating": 5.0,
+    "numReviews": 256,
+    "description": "Auto shut-off Fast boiling Cordless",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "capacity": "1.7L",
+      "weight": "0.9kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Auto shut-off",
+      "Fast boiling",
+      "Cordless",
+      "Water level indicator"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg",
+      "/images/home_&_kitchen_3.jpg"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "HouseBlend Non-stick Frying Pan",
+    "brand": "HouseBlend",
+    "category": "Home & Kitchen",
+    "price": 75.57,
+    "stock": 88,
+    "rating": 4.0,
+    "numReviews": 142,
+    "description": "Non-stick surface Heat resistant handle Easy to clean",
+    "technicalSpecs": {
+      "material": "Aluminum",
+      "dimensions": "28cm diameter",
+      "weight": "1kg",
+      "color": "Black"
+    },
+    "features": [
+      "Non-stick surface",
+      "Heat resistant handle",
+      "Easy to clean",
+      "Oven safe"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg",
+      "/images/home_&_kitchen_2.jpg"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "KitchenPro Chef Knife Set",
+    "brand": "KitchenPro",
+    "category": "Home & Kitchen",
+    "price": 87.04,
+    "stock": 70,
+    "rating": 3.5,
+    "numReviews": 193,
+    "description": "Ergonomic handles Razor-sharp edges Dishwasher safe",
+    "technicalSpecs": {
+      "material": "Stainless Steel",
+      "dimensions": "Knife length 8-10 inches",
+      "weight": "1.2kg",
+      "color": "Silver"
+    },
+    "features": [
+      "Ergonomic handles",
+      "Razor-sharp edges",
+      "Dishwasher safe",
+      "Durable"
+    ],
+    "images": [
+      "/images/home_&_kitchen_1.jpg"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "RadiantYou Vitamin C Serum",
+    "brand": "RadiantYou",
+    "category": "Beauty & Personal Care",
+    "price": 205.81,
+    "stock": 87,
+    "rating": 4.8,
+    "numReviews": 191,
+    "description": "Brightens skin Hydrating Lightweight",
+    "technicalSpecs": {
+      "ingredients": "Vitamin C, Hyaluronic Acid, Water",
+      "volume": "30ml",
+      "skinType": "All skin types",
+      "color": "Orange"
+    },
+    "features": [
+      "Brightens skin",
+      "Hydrating",
+      "Lightweight",
+      "Dermatologist tested"
+    ],
+    "images": [
+      "/images/beauty_&_personal_care_1.jpg"
+    ]
+  }
+]

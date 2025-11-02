@@ -1,8 +1,51 @@
-.sidebarMainContainer
-{
-    display: flex;
-    flex-direction: column;
-    width: 15%;
-    height: 100vh;
-    background-color: rgb(255, 133, 133);
+/*
+  Sidebar component styling
+*/
+
+.sidebarMainContainer {
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+  height: 100vh;
+  background-color: #e9f2ff;
+  border-right: 2px solid #c9dfff;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.sidebarHeader {
+  font-size: 1.2rem;
+  color: #084298;
+  font-weight: 600;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.categoryList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.categoryButton {
+  background: transparent;
+  border: none;
+  padding: 10px 15px;
+  text-align: left;
+  font-size: 1rem;
+  color: #084298;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.categoryButton:hover {
+  background-color: #d4e4ff;
+  transform: translateX(4px);
+}
+
+.categoryButton.active {
+  background-color: #b5d0ff;
+  font-weight: 600;
 }

@@ -1,3 +1,7 @@
+/*
+  Product variables for use in components
+*/
+
 export interface Product {
   id: number;
   name: string;

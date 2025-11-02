@@ -6,14 +6,28 @@ interface ProductTileProps {
   product: Product;
 }
 
+/*
+  Product information sent in from parent component via product
+  array.
+
+  Product information like price, image and description is set
+  in the returned JSX component.
+*/
+
 const ProductTile: React.FC<ProductTileProps> = ({ product }) => {
-  const imageUrl = product.image || product.images?.[0] || "/placeholder.jpg";
+  const imageUrl = product.images?.[0] || "/placeholder.jpg";
+  console.log("Product images:", product.images);
 
   return (
     <div className="productTile">
-      <img src={imageUrl} alt={product.name} className="productImage" />
-      <h3>{product.name}</h3>
-      <p>${product.price.toFixed(2)}</p>
+      <div>
+        <img src={imageUrl} alt={product.name} className="productImage" />
+        <h3>{product.name}</h3>
+        <p className="productDescription">{product.description}</p>
+      </div>
+      <div className="productPriceContainer">
+        <p className="productPrice">${product.price.toFixed(2)}</p>
+      </div>
     </div>
   );
 };

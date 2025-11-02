@@ -1,5 +1,9 @@
 from huggingface_hub import snapshot_download
 
+"""
+    This script downloads the 'SmolLM3' model to the project
+"""
+
 # Hugging Face repository for the model
 repo_id = "HuggingFaceTB/SmolLM3-3B"
 

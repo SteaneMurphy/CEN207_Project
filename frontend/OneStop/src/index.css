@@ -40,3 +40,10 @@ img {
   display: flex;
   flex-direction: column;
 }
+
+:root {
+  --primary-blue: #007bff;
+  --primary-hover: #0069d9;
+  --text-light: #ffffff;
+  --bg-light: #f9f9f9;
+}

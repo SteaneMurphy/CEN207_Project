@@ -17,10 +17,13 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Path to your locally downloaded model
+# Path locally stored model
 model_path = "./models/SmolLM3-3B"
 
-# INT4 quantization config
+"""
+    Loads the model in INT4 quantization mode as model is too powerful
+    for my local computer. Config set against known values for my hardware.
+"""
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_use_double_quant=True,
@@ -28,7 +31,6 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_compute_dtype="float16",
 )
 
-# Load tokenizer and model locally in int4 mode
 tokeniser = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(
     model_path,
@@ -43,12 +45,22 @@ chat_pipe = pipeline("text-generation", model=model, tokenizer=tokeniser)
 class ChatRequest(BaseModel):
     message: str
 
+"""
+    This endpoint utilises the search function from the 'embeddings_search.py' script.
+
+    Once the similar products are returned, their descriptions and names are seperated and
+    added to an array.
+
+    The AI model is instructed to act as a shopping asisstant and is passed the computed
+    similar products. The model presents its response, related to this list.
+
+    The list is also returned to the frontend for display and rendering purposes.
+"""
 @app.post("/chat")
 def chat(req: ChatRequest):
     user_message = req.message
 
-    # Step 1: Find similar products
-    matched_products = search_products(user_message, top_k=5)
+    matched_products = search_products(user_message, top_k=5)                                       # find similar products using consine vectorisation
 
     product_summaries = [
         f"{p['name']} ({p['brand']}): {p['description']}"
@@ -56,8 +68,7 @@ def chat(req: ChatRequest):
     ]
     context = "\n".join(product_summaries)
 
-    # Step 2: Build context for the model
-    context = "\n\n".join([
+    context = "\n\n".join([                                                                        # create the prompt and context to be used by the AI model
         f"Product: {p['name']}\nDescription: {p['description']}\nSpecs: {p['technicalSpecs']}"
         for p in matched_products
     ])
@@ -76,18 +87,16 @@ def chat(req: ChatRequest):
     AI:
     """.strip()
 
-    # Step 3: Generate reply
-    response = chat_pipe(
+    response = chat_pipe(                                                                           # generate the response, set token limit and other settigns
         prompt,
-        max_new_tokens=200,
+        max_new_tokens=800,
         do_sample=True,
         temperature=0.7,
         top_p=0.9,
     )[0]["generated_text"]
 
-    reply = response.split("AI:")[-1].strip() if "AI:" in response else response.strip()
+    reply = response.split("AI:")[-1].strip() if "AI:" in response else response.strip()            # split the response into matched products array and customer response
 
-    # Step 4: Return both, but structured
     return {
         "reply": reply,
         "matched_products": [
